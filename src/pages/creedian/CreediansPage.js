@@ -41,3 +41,4 @@ export const CreediansPage = () => {
     <Datatable columns={columns} url={"/admin/creedian/creedians"} />
   );
 }
+ 
