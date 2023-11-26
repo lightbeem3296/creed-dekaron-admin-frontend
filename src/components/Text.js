@@ -6,3 +6,4 @@ export const LbText = ({ label, className, ...rest }) => {
     </div>
   );
 }
+ 
