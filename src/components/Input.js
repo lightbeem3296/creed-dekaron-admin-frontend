@@ -6,4 +6,4 @@ export const LbInput = ({ label, className, ...rest }) => {
     </div>
   );
 }
-    
+     
