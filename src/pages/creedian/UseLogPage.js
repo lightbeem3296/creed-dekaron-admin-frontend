@@ -54,4 +54,4 @@ export const UseLogPage = () => {
     <Datatable columns={columns} url={"/admin/creedian/use-log"} />
   );
 }
-        
+         
