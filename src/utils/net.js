@@ -27,4 +27,4 @@ export const handleResponse = (axiosResponce, okCallback, errCallback) => {
 export const goToUrl = (urlStr) => {
   window.location.href = urlStr;
 }
-                 
+                  
